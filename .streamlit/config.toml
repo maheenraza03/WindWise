@@ -1,0 +1,13 @@
+# configuration file for the web app 
+
+[theme]
+primaryColor = "#7B876D"  
+backgroundColor = "#DDB8A6" 
+secondaryBackgroundColor = "#D49B7E" 
+textColor = "#893F04" 
+font = "sans serif"
+
+[server]
+headless = true
+port = 8501
+enableCORS = false
